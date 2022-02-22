@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the price of victuals within the verge of the court</title>
+            <title>Proclamations. 1613-11-05</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1613</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22087</idno>
+            <idno type="STC">STC 8492</idno>
+            <idno type="STC">ESTC S100832</idno>
+            <idno type="EEBO-CITATION">99836659</idno>
+            <idno type="PROQUEST">99836659</idno>
+            <idno type="VID">943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 943)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1686:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the price of victuals within the verge of the court</title>
+                  <title>Proclamations. 1613-11-05</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Whitehall the fifth day of Nouember in the eleuenth yeere of our reigne ..</note>
+                  <note>In this edition line 1 of text ends: But-.</note>
+                  <note>Steele notation: But- haunsing offend.</note>
+                  <note>Possibly issued with STC 8455.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Food prices --  Great Britain --  Law and legislation --  Early works to 1800.</term>
+               <term>Price regulation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:943:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <head type="sub">¶ A Proclamation for the prices of Victuals within the Verge of the Court.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas heretofore diuers Bakers, Brewers, Inholders, But</hi>
+               <g ref="char:EOLhyphen"/>chers, and other Victualers, through their greedy deſire of vnlawfull gaine, not contented with reaſonable profit in vttering and ſelling of Victuall vnto Our Subiects in the Common wealth, And ſpecially within the Verge of Our Court, where Our Nobilitie, Seruants and Traine (dayly attending vpon Our perſon) are lodged and placed by Our Harbengers, are vnlawfully exac<g ref="char:EOLhyphen"/>ted vpon with vnreaſonable and extreame prices, by the ſaid Victuallers, en<g ref="char:EOLhyphen"/>haunſing the ſame Victuals, Horſemeat, Lodgings, and all other neceſſaries at a more deare price, then it was ſold for (to Our common Subiects) before Our comming, And for that of late it appeareth vnto Vs by the Records of Our Compting houſe, that all the Kings of this Realme, (Our progenitours) haue alwayes had a ſpeciall care to reſtraine the exceſſe gaining by the aforeſaid Vic<g ref="char:EOLhyphen"/>tuallers and others within the Verge of their Courts, And alſo for that it further appeareth vnto Vs, that of late more extreame exaction is vſed by the foreſaid Victuallers, and others towards Our ſeruants, Traine and Suiters, attending Our Courts whereſoeuer We make Our abode, then heretofore hath bene, Nothing reſpecting Our Prerogatiue, nor the Lawes of Our Realme, Therefore Our will and pleaſure is, and We doe hereby ſtraitly charge and command, that all perſons doe obey and keepe all ſuch prices, as is and ſhalbe priced, aſſeaſſed, and rated by the Clearke of the Market of Our Houſhold within the Verge of Our Court, aſwell within Liberties as without; And the Iury before him, or his lawfull Deputie, by vertue of his Office ſworne and charged from time to time, The ſame Rates and prices not onely to be certified by Our ſaid Clearke of the Market, or his Deputie into Our Counting houſe, But alſo fixed and ſet vpon the Gates of Our Court, and other places within the Verge, aſwell within Liber<g ref="char:EOLhyphen"/>ties as without; And that no maner of the perſon or perſons aforeſaid, of what eſtate or degree ſoeuer hee or they be, doe in any wiſe pay more for Corne, Victuals, Horſemeat, Lodging or any other thing, then af<g ref="char:EOLhyphen"/>ter the rate and forme aforeſaid, vpon paine of impriſonment, &amp; to be Fined with further puniſhment that ſhall thereof follow, The ſame paines and puniſhments, and euery part therof to be executed vpon al thoſe perſons, and euery of them which doe, or ſhall preſume to aſke or demand, vtter and ſel any maner of thing, or things, contrary to the true meaning of this Our Proclamation. And moreouer We do ſtraitly charge and command, that no maner of perſon or perſons, now vſing, or which hereafter ſhal vſe, or of right ought to vſe to ſerue any City, Borough, towne or other place where Our repoſe &amp; abode is, or ſhalbe, or elſwhere within the Verge of Our Courts, aſwell within Liberties as without, with any kinde of Corne or Victu<g ref="char:EOLhyphen"/>als, or other neceſſaries, aſwell vpon the Market day, as at any other time, ſhalbe any thing the more remiſſe or ſlacke for making of prouiſion for the ſame, then they or any of them heretofore haue bin, nor vſe any co<g ref="char:EOLhyphen"/>lour of craft to deceiue the buyers thereof, Nor hide or lay aſide their Corne, victuals, Horſmeat, Lodgings or any other neceſſaries to diminiſh the Market, whereby Our whole Traine within any City, borough, towne, and other inhabitants of the ſame, and other Our Subiects thereunto reſorting, ſhould not be as well ferned and as plenteouſly furniſhed in euery behalfe as it was before, or of right ought to haue beene in defraude of this Our ordinance. And furthermore we ſtraightly charge and expreſſely Commaunde all Our Officers of Greencloth, Our Juſtices of peace, Our Clarke of the Market, his Deputy or Deputies, Maiors, Bayliffes, Sheriffes, Counſtables, and all other Our faithful Officers &amp; euery of them, of Cities, Burroughes, Townes, Hundreds, and other places within the Verge of Our Court as well within liber<g ref="char:EOLhyphen"/>ties as without from time to time, when, and as often as neede ſhall require, vpon Complaint by any par<g ref="char:EOLhyphen"/>tie iuffly made, diligently euery of them within their authorities forthwith to endeuour themſelues to ſee tuff puniſhment, and due reformation of the premiſes againſt ſuch perſon or perſons as ſhall offend herein, according to Iuſtice and prices, as aforeſaid.</p>
+            <closer>
+               <dateline>Giuen at Our Court of Whitehall <date>the fifth day of Nouember in the eleuenth yeere of our reigne of England, Fraunce, and Ireland, And of Scotland the ſeuen and fortieth.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. ANNO DOM. 16<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
